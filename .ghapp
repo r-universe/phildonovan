@@ -1,0 +1,10 @@
+{
+  "id": 141293648,
+  "created_at": "2026-06-19T09:14:20.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["eolas-r"]
+}
