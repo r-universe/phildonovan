@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/phildonovan/phildonovan.r-universe.dev
 	branch = HEAD
+[submodule "eolas"]
+	path = eolas
+	url = https://github.com/phildonovan/eolas-r
+	branch = master
